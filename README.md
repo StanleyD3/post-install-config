@@ -97,7 +97,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Used to get users to the right person
 
 **DONE**
-This configuration ensures osTicket is not just installed, but optimized for real-world use. 
+
+*This configuration ensures osTicket is not just installed, but optimized for real-world use.*
 - You now have:
   - A structured team system
   - Clear responsibilities
