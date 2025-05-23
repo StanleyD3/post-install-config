@@ -104,3 +104,5 @@ This tutorial outlines the post-install configuration of the open-source help de
   - Clear responsibilities
   - Helpdesk logic mapped to real business needs
 This setup simulates a production-ready environment reflecting modern IT support workflows.
+
+Continue to **[Ticket Lifecycle](https://github.com/StanleyD3/ticket-lifecycle)**
